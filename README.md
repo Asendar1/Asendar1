@@ -13,7 +13,7 @@
 - **OS:** Linux, Windows
 - **Key Interests:** Game architecture, pathfinding, AI systems, UI/UX, system-level C programming
 
-<img src="{(https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)}" />
+![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
