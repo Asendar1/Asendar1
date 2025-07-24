@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hamzah Asendar
 
-🎓 Software Engineering Student at 42 Amman 
-💻 Self-taught game developer and systems programmer 
+🎓 Software Engineering Student at 42 Amman/
+💻 Self-taught game developer and systems programmer/
 🌍 Jordan
 
 ---
