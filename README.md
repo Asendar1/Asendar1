@@ -1,55 +1,93 @@
 # 👋 Hi, I'm Hamzah Asendar
 
-🎓 Software Engineering Student at 42 Amman\
-💻 Self-taught game developer and systems programmer\
-🌍 Jordan
+🎓 Software Engineering Student at **42 Amman**  
+💻 Backend Engineer | Go & Systems Programming | High-Concurrency Real-Time Systems  
+🌍 Amman, Jordan  
+
+Passionate about building scalable, performant systems. Self-taught Go developer with a strong C/C++ foundation from 42 Amman. Currently focused on backend engineering, concurrency, and real-time applications.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C, C++, C#, Bash, HTML/CSS, Python (Junior)
-- **Tools:** Adobe Photoshop, Adobe Audtion, Premiere Pro, Davinci Resolve, Audcaity, Unity (URP), Git, GitHub, Blender (beginner), Figma, Vistual Studio Code, Vim, VirtualMachines, OBS
-- **OS:** Linux, Windows
-- **Key Interests:** Game architecture, pathfinding, AI systems, UI/UX, system-level C programming
+**Languages**  
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+**Backend & Tools**  
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-gorilla-4ECDC4)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
----
-
-## 💼 Featured Projects
-
-### 🔧 [Minishell](https://github.com/m-darawsheh/minishell)
-A custom Bash-like shell written in C.  
-Handles pipes, redirections, environment variable expansion, signal handling, and command parsing.
-
-### 🎮 [Conquer’s Command](https://github.com/Asendar1/Conqeur-s-Command)
-A real-time strategy prototype built in Unity using custom systems.  
-Features:
-- Dynamic building system with cancellable/resumable construction
-- Worker units, resources, power management
-- Custom hierarchical pathfinding system + local avoidance
-- Basic unit AI (move/attack/selection)
-- Designed for modular expansion
+**Other Interests**  
+Unity (URP), Blender (beginner), Figma, Adobe Suite (Photoshop, Premiere Pro, Audition)
 
 ---
 
-## 🎨 UI/UX Work
+## 🚀 Featured Project
 
-- 📱 Designed a login/signup UI prototype in **Figma**
-- 🧠 Focus on usability, accessibility, and layout structure
+### High-Concurrency Pixel Canvas (r/place Clone) ![Stars](https://img.shields.io/github/stars/Asendar1/r-place-clone?style=social)
+
+A real-time collaborative 1000×1000 pixel art canvas built in Go, capable of handling **5,100+ concurrent WebSocket connections** on limited resources.
+
+![Bot War Demo](https://raw.githubusercontent.com/Asendar1/r-place-clone/main/demo/cat_battle_timelapse.gif)  
+*5,000 coordinated bots drawing the staring cat vs. 100 saboteurs — all in real-time*
+
+**Key Highlights**
+- 12-shard hub architecture with goroutines, channels, and atomic operations
+- Custom 4-byte binary WebSocket protocol for minimal overhead
+- Redis BITFIELD (u4) for O(1) updates and ~500KB storage
+- Smooth, interactive frontend (zoom, pan, live client counter)
+- Stress-tested with Python asyncio bots in Docker (3 cores / 1GB RAM cap)
+
+🔗 [View Repository](https://github.com/Asendar1/r-place-clone) | [Live Demo in Repo]
 
 ---
 
-## ✨ What I’m Working On
+## 🕹️ Game Development Projects
 
-- A horror storytelling game prototype with a unique faceless visual style  
-- Enhancing Blender skills for low-poly modeling  
-- Writing better dev tools for my Unity workflow
+### Conquer’s Command (Unity RTS Prototype)
+Real-time strategy prototype with custom systems:
+- Dynamic building with cancellable/resumable construction
+- Worker units, resource & power management
+- Hierarchical pathfinding + local avoidance
+- Modular AI and selection system
+
+🔗 [Repository](https://github.com/Asendar1/Conqeur-s-Command)
+
+### Minishell (42 Project)
+Bash-like shell in C:
+- Pipes, redirections, signals, env vars, built-ins
+
+🔗 [Repository](https://github.com/m-darawsheh/minishell)
 
 ---
 
-## Stats
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asendar1&show_icons=true&theme=transparent)
+## 🎨 UI/UX & Creative Work
+- Mobile login/signup prototypes in **Figma**
+- Video editing & motion graphics (Premiere Pro, DaVinci Resolve)
+- Low-poly modeling experiments in **Blender**
 
+---
+
+## 📊 GitHub Stats
+
+![Hamzah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asendar1&show_icons=true&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asendar1&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## ✨ Currently Working On
+- Polishing the pixel canvas for public deployment
+- Exploring more Go concurrency patterns
+- Building dev tools for Unity workflow
+- Preparing for backend engineering roles
+
+Open to junior backend, Go, or systems programming opportunities (remote or Amman). Let's connect! 🚀
